@@ -1,1 +1,2 @@
 file created from Github
+add this line right after "fetch" and "merge" command
