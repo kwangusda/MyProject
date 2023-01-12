@@ -2,3 +2,7 @@ file created from Github
 add this line right after "fetch" and "merge" command
 add 3rd line from local, then push to Github
 add 4th line from Github v1.1
+add 5th line from local "update-test2"
+add 6th line from local v1.1-test
+
+
